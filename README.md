@@ -19,4 +19,4 @@
 
 
 ### Order confirm page
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96209cca-fe54-40ab-bd54-eaa31dbbb317" />
